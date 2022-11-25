@@ -1,0 +1,90 @@
+{
+  "font_families": {
+    "body": {
+      "value": "Cadillac Gothic",
+      "type": "fontFamilies"
+    },
+    "heading": {
+      "value": "{font_families.body}",
+      "type": "fontFamilies"
+    }
+  },
+  "font_weight": {
+    "semibold": {
+      "value": "500",
+      "type": "fontWeights"
+    }
+  },
+  "border_radii": {
+    "default": {
+      "value": "{border_radii.none}",
+      "type": "borderRadius"
+    }
+  },
+  "color": {
+    "primary": {
+      "50": {
+        "value": "#F3F3F8",
+        "type": "color",
+        "description": "#FFF1F1"
+      },
+      "100": {
+        "value": "#DCDCEA",
+        "type": "color",
+        "description": "#FFF1F1"
+      },
+      "200": {
+        "value": "#C5C4DC",
+        "type": "color",
+        "description": "#FFF1F1"
+      },
+      "300": {
+        "value": "#8B89B9",
+        "type": "color",
+        "description": "#FFF1F1"
+      },
+      "400": {
+        "value": "#45438F",
+        "type": "color",
+        "description": "#FFF1F1"
+      },
+      "500": {
+        "value": "#171473",
+        "type": "color",
+        "description": "#FFF1F1"
+      },
+      "600": {
+        "value": "#12105C",
+        "type": "color",
+        "description": "#FFF1F1"
+      },
+      "700": {
+        "value": "#0C0A39",
+        "type": "color",
+        "description": "#FFF1F1"
+      }
+    },
+    "semantic": {
+      "border": {
+        "focus": {
+          "value": "#F5D98F",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "emphasis": {
+          "value": "#211FAB",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "text_case": {
+    "button": {
+      "default": {
+        "value": "{text_case.uppercase}",
+        "type": "textCase"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "global/core",
+    "global/data-viz",
+    "global/decision/theme/light",
+    "global/decision/theme/dark",
+    "global/decision/typography",
+    "global/decision/others",
+    "global/components/button",
+    "BrandA",
+    "Cadillac"
+  ]
+}
